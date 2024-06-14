@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio website! This repository contains the source code for my portfolio, showcasing my skills, projects, education, and certificates.
 
+YOU CAN VIEW MY PORTFOLIO HERE DEPLOYED IN Netlify : https://pavankalyanchapa-portfolio.netlify.app/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
